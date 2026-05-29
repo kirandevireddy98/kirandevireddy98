@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Kiran Kumar Reddy Devireddy</h1>
-<h3 align="center">5x Certified Salesforce Developer | Agentforce Specialist | 5.7 Years Experience</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A1E0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kiran+Kumar+Reddy;5x+Certified+Salesforce+Developer;Agentforce+Specialist+%7C+5.7+Yrs+Exp" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="http://www.linkedin.com/in/kirandevireddy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Kirandevireddy08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Bangalore-India-blue?style=for-the-badge" />
+  <a href="https://trailblazer.me/id/kirandevireddy"><img src="https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/📍_Bangalore,_India-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kirandevireddy98&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kirandevireddy98&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -28,17 +30,43 @@
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-Service%20Cloud%20Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-Platform%20Developer%20I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-Platform%20App%20Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-Certified%20Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-Agentblazer%20Champion-FF6B35?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtl&oid=00DF0000000gZsu&lastMod=1617268330000" width="100" alt="Service Cloud Consultant" />
+  <img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtg&oid=00DF0000000gZsu&lastMod=1617268326000" width="100" alt="Platform Developer I" />
+  <img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtb&oid=00DF0000000gZsu&lastMod=1617268321000" width="100" alt="Platform App Builder" />
+  <img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5MtR&oid=00DF0000000gZsu&lastMod=1617268316000" width="100" alt="Administrator" />
+  <img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5MtM&oid=00DF0000000gZsu&lastMod=1617268311000" width="100" alt="Certified Associate" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Service_Cloud_Consultant-1B96FF?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform_Developer_I-032D60?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform_App_Builder-0D9DDA?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Administrator-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certified_Associate-5A9BD5?style=flat-square&logo=salesforce&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_Agentblazer_Champion-FF6B35?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
 
 ---
 
 ## 🛠️ Technical Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apex-1B96FF?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/LWC-32C8B0?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/CPQ-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/OmniStudio-6B4FBB?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentforce-FF6B35?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/GenAI-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+</p>
 
 | Category | Technologies |
 |----------|-------------|
@@ -83,11 +111,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirandevireddy98&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kirandevireddy98&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kirandevireddy98&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirandevireddy98&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirandevireddy98&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
@@ -100,5 +129,9 @@
 </p>
 
 <p align="center">
-  <i>💡 "Building intelligent Salesforce solutions that drive real business impact."</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=00A1E0&center=true&vCenter=true&width=500&lines=%F0%9F%92%A1+Building+intelligent+Salesforce+solutions+that+drive+real+business+impact." alt="Footer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:032D60,100:00A1E0&height=100&section=footer" />
 </p>
