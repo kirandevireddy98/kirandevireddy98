@@ -30,23 +30,14 @@
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtl&oid=00DF0000000gZsu&lastMod=1617268330000" width="100" alt="Service Cloud Consultant" />
-  <img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtg&oid=00DF0000000gZsu&lastMod=1617268326000" width="100" alt="Platform Developer I" />
-  <img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtb&oid=00DF0000000gZsu&lastMod=1617268321000" width="100" alt="Platform App Builder" />
-  <img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5MtR&oid=00DF0000000gZsu&lastMod=1617268316000" width="100" alt="Administrator" />
-  <img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000A5MtM&oid=00DF0000000gZsu&lastMod=1617268311000" width="100" alt="Certified Associate" />
+  <img src="https://img.shields.io/badge/Salesforce-Administrator-1A237E?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-Platform_Developer_I-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-Platform_App_Builder-0D9DDA?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Service_Cloud_Consultant-1B96FF?style=flat-square&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform_Developer_I-032D60?style=flat-square&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform_App_Builder-0D9DDA?style=flat-square&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Administrator-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certified_Associate-5A9BD5?style=flat-square&logo=salesforce&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥_Agentblazer_Champion-FF6B35?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-Service_Cloud_Consultant-F5A623?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-Certified_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔥-Agentblazer_Champion-FF6B35?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
 
 ---
